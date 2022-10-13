@@ -1,8 +1,10 @@
 # React-for-beginners
 
-### NomadCoker - ReactJS로 영화 웹 서비스 만들기 강의
+### NomadCoder - ReactJS로 영화 웹 서비스 만들기 강의
 
 <a href="https://nomadcoders.co/react-for-beginners/lobby" title="NomadCoder" target="_blank">NomadCoder 사이트</a>
+<br/>
+<a href="https://hdy86.github.io/react-movie-app" title="My Meme-Maker" target="_blank">My Movie 사이트</a>
 
 
 
