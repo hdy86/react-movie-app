@@ -4,7 +4,7 @@
 
 <a href="https://nomadcoders.co/react-for-beginners/lobby" title="NomadCoder" target="_blank">NomadCoder 사이트</a>
 <br/>
-<a href="https://hdy86.github.io/react-movie-app" title="My Meme-Maker" target="_blank">My Movie 사이트</a>
+<a href="https://hdy86.github.io/react-movie-app" title="My Movie" target="_blank">My Movie 사이트</a>
 
 
 
